@@ -1,0 +1,20 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container 
+{
+    background-color: aquamarine;
+    width: 100%;
+}
+
+.bloco
+{
+    float: left;
+    width: 96%;
+    height: 300px;
+    margin-left: 2% ;
+    background: #666;
+}
